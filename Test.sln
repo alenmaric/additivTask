@@ -1,0 +1,45 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PressureMonitoringSystem", "PressureMonitoringSystem\PressureMonitoringSystem.csproj", "{002026B6-F3F6-4188-95AF-884CB8681977}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TicketDispenserProject", "TicketDispenser\TicketDispenserProject.csproj", "{BEB24083-4EAE-4269-952F-AC7EBF513F65}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TicketDispanserTest", "TicketDispanserTest\TicketDispanserTest.csproj", "{69924322-E5F7-47F9-AA2F-EA8D9BD4CB0E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TicketDispanser", "TicketDispanser", "{1129214A-FFDD-4147-B3E1-C3DEFBCB1A40}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "PressureMonitoringSystem", "PressureMonitoringSystem", "{AC06AE56-E753-4A99-8A76-328323B66812}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PressureMonitoringSystemTest", "PressureMonitoringSystemTest\PressureMonitoringSystemTest.csproj", "{82CA08DA-8F83-4DC0-B81F-32D6E7959B38}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{002026B6-F3F6-4188-95AF-884CB8681977}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{002026B6-F3F6-4188-95AF-884CB8681977}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{002026B6-F3F6-4188-95AF-884CB8681977}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{002026B6-F3F6-4188-95AF-884CB8681977}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BEB24083-4EAE-4269-952F-AC7EBF513F65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEB24083-4EAE-4269-952F-AC7EBF513F65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEB24083-4EAE-4269-952F-AC7EBF513F65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEB24083-4EAE-4269-952F-AC7EBF513F65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69924322-E5F7-47F9-AA2F-EA8D9BD4CB0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69924322-E5F7-47F9-AA2F-EA8D9BD4CB0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69924322-E5F7-47F9-AA2F-EA8D9BD4CB0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69924322-E5F7-47F9-AA2F-EA8D9BD4CB0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82CA08DA-8F83-4DC0-B81F-32D6E7959B38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82CA08DA-8F83-4DC0-B81F-32D6E7959B38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82CA08DA-8F83-4DC0-B81F-32D6E7959B38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82CA08DA-8F83-4DC0-B81F-32D6E7959B38}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{69924322-E5F7-47F9-AA2F-EA8D9BD4CB0E} = {1129214A-FFDD-4147-B3E1-C3DEFBCB1A40}
+		{BEB24083-4EAE-4269-952F-AC7EBF513F65} = {1129214A-FFDD-4147-B3E1-C3DEFBCB1A40}
+		{002026B6-F3F6-4188-95AF-884CB8681977} = {AC06AE56-E753-4A99-8A76-328323B66812}
+		{82CA08DA-8F83-4DC0-B81F-32D6E7959B38} = {AC06AE56-E753-4A99-8A76-328323B66812}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,12 @@
+/Users/alenmaric/Projects/test/PressureMonitoringSystem/bin/Debug/netcoreapp3.1/PressureMonitoringSystem.deps.json
+/Users/alenmaric/Projects/test/PressureMonitoringSystem/bin/Debug/netcoreapp3.1/PressureMonitoringSystem.runtimeconfig.json
+/Users/alenmaric/Projects/test/PressureMonitoringSystem/bin/Debug/netcoreapp3.1/PressureMonitoringSystem.runtimeconfig.dev.json
+/Users/alenmaric/Projects/test/PressureMonitoringSystem/bin/Debug/netcoreapp3.1/PressureMonitoringSystem.dll
+/Users/alenmaric/Projects/test/PressureMonitoringSystem/bin/Debug/netcoreapp3.1/PressureMonitoringSystem.pdb
+/Users/alenmaric/Projects/test/PressureMonitoringSystem/obj/Debug/netcoreapp3.1/PressureMonitoringSystem.csprojAssemblyReference.cache
+/Users/alenmaric/Projects/test/PressureMonitoringSystem/obj/Debug/netcoreapp3.1/PressureMonitoringSystem.AssemblyInfoInputs.cache
+/Users/alenmaric/Projects/test/PressureMonitoringSystem/obj/Debug/netcoreapp3.1/PressureMonitoringSystem.AssemblyInfo.cs
+/Users/alenmaric/Projects/test/PressureMonitoringSystem/obj/Debug/netcoreapp3.1/PressureMonitoringSystem.csproj.CoreCompileInputs.cache
+/Users/alenmaric/Projects/test/PressureMonitoringSystem/obj/Debug/netcoreapp3.1/PressureMonitoringSystem.dll
+/Users/alenmaric/Projects/test/PressureMonitoringSystem/obj/Debug/netcoreapp3.1/PressureMonitoringSystem.pdb
+/Users/alenmaric/Projects/test/PressureMonitoringSystem/obj/Debug/netcoreapp3.1/PressureMonitoringSystem.genruntimeconfig.cache

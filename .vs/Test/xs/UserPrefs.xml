@@ -1,0 +1,46 @@
+﻿<Properties StartupConfiguration="{002026B6-F3F6-4188-95AF-884CB8681977}|Default">
+  <MonoDevelop.Ide.ItemProperties.TicketDispanser.TicketDispenserProject PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.PressureMonitoringSystem.PressureMonitoringSystem PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Test" expanded="True" />
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Test" expanded="True">
+            <Node name="PressureMonitoringSystem" expanded="True">
+              <Node name="PressureMonitoringSystemTest" expanded="True">
+                <Node name="PressureMonitoringSystemTest" expanded="True">
+                  <Node name="PressureSensorAlarmTest" expanded="True" />
+                </Node>
+              </Node>
+            </Node>
+            <Node name="TicketDispanser" expanded="True">
+              <Node name="TicketDispanserTest" expanded="True">
+                <Node name="TicketDispanserTest" expanded="True">
+                  <Node name="CheckSequnceNumber" expanded="True">
+                    <Node name="Check_Sequnce_Number" selected="True" />
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.PressureMonitoringSystem.PressureMonitoringSystemTest PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <DisabledProjects>
+    <String>PressureMonitoringSystem/PressureMonitoringSystemTest/PressureMonitoringSystemTest.csproj</String>
+  </DisabledProjects>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.TicketDispanser.TicketDispanserTest PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

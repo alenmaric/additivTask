@@ -1,0 +1,12 @@
+/Users/alenmaric/Projects/test/TicketDispenser/bin/Debug/netcoreapp3.1/TicketDispenser.deps.json
+/Users/alenmaric/Projects/test/TicketDispenser/bin/Debug/netcoreapp3.1/TicketDispenser.runtimeconfig.json
+/Users/alenmaric/Projects/test/TicketDispenser/bin/Debug/netcoreapp3.1/TicketDispenser.runtimeconfig.dev.json
+/Users/alenmaric/Projects/test/TicketDispenser/bin/Debug/netcoreapp3.1/TicketDispenser.dll
+/Users/alenmaric/Projects/test/TicketDispenser/bin/Debug/netcoreapp3.1/TicketDispenser.pdb
+/Users/alenmaric/Projects/test/TicketDispenser/obj/Debug/netcoreapp3.1/TicketDispenser.csprojAssemblyReference.cache
+/Users/alenmaric/Projects/test/TicketDispenser/obj/Debug/netcoreapp3.1/TicketDispenser.AssemblyInfoInputs.cache
+/Users/alenmaric/Projects/test/TicketDispenser/obj/Debug/netcoreapp3.1/TicketDispenser.AssemblyInfo.cs
+/Users/alenmaric/Projects/test/TicketDispenser/obj/Debug/netcoreapp3.1/TicketDispenser.csproj.CoreCompileInputs.cache
+/Users/alenmaric/Projects/test/TicketDispenser/obj/Debug/netcoreapp3.1/TicketDispenser.dll
+/Users/alenmaric/Projects/test/TicketDispenser/obj/Debug/netcoreapp3.1/TicketDispenser.pdb
+/Users/alenmaric/Projects/test/TicketDispenser/obj/Debug/netcoreapp3.1/TicketDispenser.genruntimeconfig.cache
